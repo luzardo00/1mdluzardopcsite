@@ -1,3 +1,3 @@
 # 1mdluzardopcsite
 ## miguel luzardo
-### colegio estadual newtom guimarães 
+### colegio estadual newton guimarães 
